@@ -12,6 +12,10 @@ For example, from this:
 tl.fromTo(data["Cube"], 1.0, { y: -3.0 }, { y: 3.0, ease: config.bezierEase(0.5384,0.6506,0.3718,1.7029) }, 0.0);
 ```
 
+## Usage
+
+Install the addon (`io_b2g.py`), create an animation and export it: `Export → GSAP timeline`.
+
 B2G outputs an ECMAScript module that can be plugged in to the project and used like this:
 
 ```javascript
