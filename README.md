@@ -4,7 +4,7 @@ This is an experimental Blender 3.4 addon that lets you to save your actions as 
 
 For example, from this:
 
-[![Screenshot](https://github.com/gecko0307/b2g/blob/main/assets/screenshot.png?raw=true)](https://github.com/gecko0307/b2g/blob/main/assets/screenshot.png?raw=true)
+[![Screenshot](https://raw.githubusercontent.com/gecko0307/b2g/main/screenshot.png)](https://raw.githubusercontent.com/gecko0307/b2g/main/screenshot.png)
 
 ...you get this:
 
